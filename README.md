@@ -58,4 +58,4 @@ Hasil perhitungan:
 
 Berikut merupakan tampilan antarmuka aplikasi Kalkulator Tagihan Listrik:
 
-![Tampilan Kalkulator Tagihan Listrik](HitungListrik/Screenshoot/Screenshot(75).png)
+![Tampilan Kalkulator Tagihan Listrik](HitungListrik/Screenshoot/Screenshot (75).png)
